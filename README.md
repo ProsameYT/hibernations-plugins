@@ -6,7 +6,4 @@ Small info: Use only nodes vps!
 
 1) open nodes terminal and type command: nano /etc/pterodactyl/config.yml
 ![aFound this!](https://gyazo.com/21064be7cbb229b3c5dd26c655ce417b)
-<p align="center">
-  <img src="[your_relative_path_here](https://gyazo.com/21064be7cbb229b3c5dd26c655ce417b)" width="350" title="hover text">
-  <img src="[your_relative_path_here_number_2_large_name](https://gyazo.com/21064be7cbb229b3c5dd26c655ce417b)https://gyazo.com/21064be7cbb229b3c5dd26c655ce417b" width="350" alt="accessibility text">
-</p>
+<img src=”https://gyazo.com/21064be7cbb229b3c5dd26c655ce417b” alt=”Image” height=”(your image height)” width=”(your image width)”>.
