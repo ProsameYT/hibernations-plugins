@@ -5,5 +5,3 @@ plugins don't make folders he is basic darknodes.jar who have inside code who ch
 Small info: Use only nodes vps!
 
 1) open nodes terminal and type command: nano /etc/pterodactyl/config.yml
-![aFound this!](https://gyazo.com/21064be7cbb229b3c5dd26c655ce417b)
-<img src=”https://gyazo.com/21064be7cbb229b3c5dd26c655ce417b” alt=”Image” height=”(your image height)” width=”(your image width)”>.
